@@ -4,6 +4,8 @@ A simple but powerful Telegram bot that **automatically forwards any message you
 
 Made with 💙 using pure Python + Requests + Flask. No extra frameworks, easy to deploy anywhere — **Render** and **Koyeb** supported.
 
+👉 [Demo Bot Link](https://t.me/autopost_forwader_bot?start=_tgr_irmln3xlMmY1)
+
 ---
 
 ## ✨ Features
